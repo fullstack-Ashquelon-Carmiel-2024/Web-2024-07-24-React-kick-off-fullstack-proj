@@ -1,3 +1,9 @@
+@emotion/react
+@emotion/styled
+@mui/icons-material
+@mui/material
+import ListOutlinedIcon from '@mui/icons-material/ListOutlined';
+
 --basic-text-shadow: 1px -1px 0 #fe6161, -3px -3px 2px black, 2px 1px 3px rgba(193, 94, 221, 0.43);
 
 const users = [

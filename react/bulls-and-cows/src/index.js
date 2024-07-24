@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './assets/icons/projectIcons';
 import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
-import './index.css';
+import './index.scss';
 import { BrowserRouter } from 'react-router-dom';
 import App from './App';
 

@@ -25,7 +25,7 @@ console.log(`randUserPics: \n`, randUserPics)
   return (
     // col-12 - 12 columns for the narowest screen (xs - extra small)
     // col-sm-6 - starting from the small screen - take the half of bootstrap
-    <div className="col-12 row">
+    <div className="col-12 row userList">
         {children}
         <ul className="p-0 col-12 col-sm-6 col-md-7 col-lg-6 order-1 order-sm-0">
 {/* MISSION: create expression that if there are some users,
